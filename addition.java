@@ -4,6 +4,7 @@ public class addition {
         int b = 60;
         int c = a+b;
         int d = b-a;
+        int e = a*b;
         System.out.println(c);
         System.out.println(d);
 

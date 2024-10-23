@@ -3,7 +3,9 @@ public class addition {
         int a = 50;
         int b = 60;
         int c = a+b;
+        int d = b-a;
         System.out.println(c);
+        System.out.println(d);
 
     }
 }
